@@ -16,6 +16,7 @@ echo " 3️⃣   Install Homebrew"
 echo " 4️⃣   Install Firebase Admin CLI"
 echo " 5️⃣   Install React Native CLI"
 echo " 6️⃣   Install React CLI"
+echo " 6⃣   Install Yarn"
 echo " "
 echo " "
 
@@ -69,6 +70,15 @@ echo ""
 npm install -g create-react-app
 echo " "
 echo "✅ CREATE-REACT-APP CLI INSTALL COMPLETE"
+echo " "
+echo " "
+
+##install Yarn
+echo "️ ️️➡️   Installing yarn "
+echo ""
+npm install -g yarn
+echo " "
+echo "✅ YARN CLI INSTALL COMPLETE"
 echo " "
 echo " "
 
